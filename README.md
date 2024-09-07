@@ -6,6 +6,7 @@ Add Stocks: Add stock symbols and the number of shares to the portfolio.
 Remove Stocks: Remove stocks from the portfolio.
 View Portfolio: Display the stock symbol, number of shares, current price, and total value for each stock using a table format.
 Real-time Data: Fetches stock prices using Alpha Vantage's API.
+
 Usage:
 
 1.Install required libraries:pip install requests prettytable
